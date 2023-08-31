@@ -33,7 +33,7 @@ by a C compiler (eg. gcc, clang). Note that a makefile has also been provided in
 handle compilation by executing the "make" command.
 
 
-### Installation
+### Installation / Execution Steps
 
 1. Clone the repo
    ```sh
