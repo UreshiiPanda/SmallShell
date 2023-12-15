@@ -39,11 +39,11 @@ handle compilation by executing the "make" command.
    ```sh
       git clone https://github.com/UreshiiPanda/SmallShell.git
    ```
-3. Compile
+2. Compile
    ```sh
       make
    ```
-4. Run Small Shell with or without an input file
+3. Run Small Shell with or without an input file
    ```sh
       ./smallsh
    ```
